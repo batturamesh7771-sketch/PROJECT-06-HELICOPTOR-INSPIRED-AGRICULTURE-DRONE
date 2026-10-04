@@ -1,4 +1,6 @@
 # PROJECT 06: Helicopter-Inspired Agricultural Spray Drone
+[![Author](https://img.shields.io/badge/Author-ELONIKHIL-blue.svg)](https://github.com/batturamesh7771-sketch)
+
 
 An advanced agricultural hexacopter drone engineering repository containing 3D models, SolidWorks CAD parts, assemblies, automation macros, simulation scripts, and local project assets.
 
@@ -43,3 +45,10 @@ PROJECT_06_HELICOPTOR_INSPIRED_AGRICULTURE_DRONE/
 1. **SolidWorks CAD**: Open `SolidWorks_CAD_and_Macros/Drone_Flight_Assembly.SLDASM` in SolidWorks 2021 or newer.
 2. **3D Printing / Visualization**: Load `3D_Models/Realistic_Agricultural_Hexacopter.stl` into Cura, PrusaSlicer, or Blender.
 3. **Macro Automation**: Import `SolidWorks_CAD_and_Macros/Agricultural_Hexacopter_Builder.vba` into SolidWorks Macro Editor.
+
+---
+
+## 👨‍💻 Author & Attribution
+* **Lead Architect & Engineer:** **ELONIKHIL** (@batturamesh7771-sketch)
+* **Project Series:** PROJECT 06 of the Aerospace Engineering Portfolio
+* **License:** [MIT License](LICENSE) (c) 2026 ELONIKHIL
